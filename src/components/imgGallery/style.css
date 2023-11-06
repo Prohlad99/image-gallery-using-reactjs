@@ -28,6 +28,9 @@
     grid-row: inherit;
     grid-auto-rows: 150px;
   }
+  .checkbox {
+    display: block;
+  }
 }
 
 @media screen and (max-width: 480px) {
